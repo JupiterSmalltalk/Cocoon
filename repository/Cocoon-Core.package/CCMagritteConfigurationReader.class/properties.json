@@ -1,0 +1,16 @@
+{
+	"category" : "Cocoon-Core-Configuration",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "CyrilFerlicot 6/19/2015 17:20",
+	"instvars" : [
+		"baseDirectory",
+		"configuration",
+		"dictionary" ],
+	"name" : "CCMagritteConfigurationReader",
+	"pools" : [
+		 ],
+	"super" : "MAVisitor",
+	"type" : "normal" }

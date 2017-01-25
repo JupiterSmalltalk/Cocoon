@@ -1,0 +1,14 @@
+{
+	"category" : "Cocoon-Tests-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "CyrilFerlicot 6/19/2015 17:23",
+	"instvars" : [
+		 ],
+	"name" : "CCMockConfiguration",
+	"pools" : [
+		 ],
+	"super" : "CCConfiguration",
+	"type" : "normal" }

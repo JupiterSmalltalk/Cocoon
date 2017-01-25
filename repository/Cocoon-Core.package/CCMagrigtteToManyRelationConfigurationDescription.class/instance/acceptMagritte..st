@@ -1,0 +1,3 @@
+visitor
+acceptMagritte: aVisitor
+	aVisitor visitToManyRelationConfigurationDescription: self

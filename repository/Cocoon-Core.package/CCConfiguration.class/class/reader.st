@@ -1,0 +1,3 @@
+accessors
+reader
+	^ CCMagritteDictionaryReader

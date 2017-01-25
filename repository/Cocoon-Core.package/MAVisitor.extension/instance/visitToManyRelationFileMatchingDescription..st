@@ -1,0 +1,3 @@
+*Cocoon-Core-Description
+visitToManyRelationFileMatchingDescription: aToManyRelationFileMatchingDescription
+	self visitToManyRelationDescription: aToManyRelationFileMatchingDescription

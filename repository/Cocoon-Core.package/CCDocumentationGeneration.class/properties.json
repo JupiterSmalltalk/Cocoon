@@ -1,0 +1,14 @@
+{
+	"category" : "Cocoon-Core-Utiles",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "CyrilFerlicot 4/2/2015 16:37",
+	"instvars" : [
+		"stream" ],
+	"name" : "CCDocumentationGeneration",
+	"pools" : [
+		 ],
+	"super" : "MAVisitor",
+	"type" : "normal" }

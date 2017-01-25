@@ -1,0 +1,17 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testBaseDirectoryWithFile" : "DamienCassou 4/24/2015 17:07",
+		"testBaseDirectoryWithNonExistingAbsolutePath" : "CyrilFerlicot 6/22/2015 13:28",
+		"testBaseDirectoryWithNonExistingRelativePath" : "CyrilFerlicot 6/22/2015 13:28",
+		"testCopyProperties" : "CyrilFerlicot 9/11/2015 17:01",
+		"testHasParent" : "DamienCassou 4/24/2015 17:25",
+		"testHash" : "CyrilFerlicot 9/11/2015 17:00",
+		"testProperties" : "DamienCassou 4/24/2015 17:26",
+		"testPropertiesAt" : "DamienCassou 4/24/2015 17:26",
+		"testPropertiesAtIfAbsent" : "DamienCassou 4/24/2015 17:26",
+		"testPropertiesAtIfAbsentPut" : "DamienCassou 4/24/2015 17:26",
+		"testPropertiesAtIfPresentIfAbsent" : "DamienCassou 8/28/2015 13:00",
+		"testPropertiesAtPut" : "DamienCassou 4/24/2015 17:26",
+		"testPropertiesHas" : "DamienCassou 4/24/2015 17:26" } }

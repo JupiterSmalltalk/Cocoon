@@ -1,0 +1,14 @@
+{
+	"category" : "Cocoon-Core-Error",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "StephaneDucasse 3/31/2015 10:23",
+	"instvars" : [
+		 ],
+	"name" : "PropertyError",
+	"pools" : [
+		 ],
+	"super" : "Error",
+	"type" : "normal" }

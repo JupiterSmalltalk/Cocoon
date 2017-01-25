@@ -1,0 +1,3 @@
+*Cocoon-Core-Description
+visitConfigurationDescription: aConfigurationDescription
+	self visitElementDescription: aConfigurationDescription

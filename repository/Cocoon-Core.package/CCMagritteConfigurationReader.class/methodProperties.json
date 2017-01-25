@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"writeConfiguration:toDictionary:" : "CyrilFerlicot 6/29/2015 15:29" },
+	"instance" : {
+		"completeConfiguration" : "CyrilFerlicot 7/30/2015 12:03",
+		"createDictionaryFrom:" : "CyrilFerlicot 6/19/2015 15:31",
+		"pathOf:" : "CyrilFerlicot 6/26/2015 11:33",
+		"readSelectorFor:" : "CyrilFerlicot 6/19/2015 15:57",
+		"tryToAddFrom:withInterpretation:" : "CyrilFerlicot 6/29/2015 15:33",
+		"visitConfigurationDescription:" : "CyrilFerlicot 6/19/2015 16:51",
+		"visitElementDescription:" : "CyrilFerlicot 6/19/2015 16:49",
+		"visitFileDescription:" : "CyrilFerlicot 6/19/2015 16:52",
+		"visitToManyRelationConfigurationDescription:" : "CyrilFerlicot 9/11/2015 13:51",
+		"visitToManyRelationFileDescription:" : "CyrilFerlicot 6/19/2015 16:54",
+		"write:to:" : "CyrilFerlicot 6/29/2015 15:33" } }

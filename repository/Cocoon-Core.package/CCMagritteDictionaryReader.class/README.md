@@ -1,0 +1,1 @@
+I am a class that take a Dictionary and create a Cocoon Configuration with the Magritte descriptions from the configuration.

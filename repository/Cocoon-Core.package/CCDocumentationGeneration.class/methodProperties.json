@@ -1,0 +1,14 @@
+{
+	"class" : {
+		"of:on:" : "CyrilFerlicot 4/1/2015 16:03" },
+	"instance" : {
+		"defaultCommentFrom:" : "DamienCassou 4/8/2016 14:11",
+		"generateDocOf:" : "DamienCassou 4/8/2016 14:58",
+		"initialize" : "CyrilFerlicot 4/2/2015 14:35",
+		"sortedChildrenOf:" : "DamienCassou 4/8/2016 14:59",
+		"stream" : "CyrilFerlicot 4/1/2015 15:32",
+		"stream:" : "CyrilFerlicot 4/1/2015 15:32",
+		"visitDescription:" : "CyrilFerlicot 6/22/2015 16:21",
+		"writeAccesorOf:" : "CyrilFerlicot 6/22/2015 16:20",
+		"writeCommentOf:" : "CyrilFerlicot 6/29/2015 14:34",
+		"writeDefaultCommentFor:" : "DamienCassou 4/8/2016 16:10" } }

@@ -1,0 +1,14 @@
+{
+	"category" : "ConfigurationOfCocoon",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"LastVersionLoad" ],
+	"commentStamp" : "DamienCassou 4/24/2015 16:44",
+	"instvars" : [
+		"project" ],
+	"name" : "ConfigurationOfCocoon",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

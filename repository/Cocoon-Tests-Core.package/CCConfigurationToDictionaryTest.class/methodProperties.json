@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testMagritteConfigurationReadingAndInterpretingDictionary" : "CyrilFerlicot 6/29/2015 15:07",
+		"testMagritteConfigurationReadingAndInterpretingFile" : "CyrilFerlicot 6/29/2015 15:07",
+		"testMagritteConfigurationReadingDefaultIsNotExported" : "CyrilFerlicot 6/29/2015 15:07",
+		"testMagritteConfigurationReadingNumber" : "CyrilFerlicot 6/29/2015 15:07",
+		"testMagritteConfigurationReadingNumberAndString" : "CyrilFerlicot 6/29/2015 15:07",
+		"testMagritteConfigurationReadingString" : "CyrilFerlicot 6/29/2015 15:07",
+		"testMagritteConfigurationReadingSubconfiguration" : "CyrilFerlicot 6/29/2015 15:07",
+		"testMagritteConfigurationReadingSubconfigurations" : "CyrilFerlicot 9/11/2015 13:50",
+		"testMagritteConfigurationReadingWrongDictionary" : "CyrilFerlicot 6/29/2015 15:07",
+		"testReadconfigurationWithInputWithoutDescription" : "CyrilFerlicot 6/29/2015 15:07" } }

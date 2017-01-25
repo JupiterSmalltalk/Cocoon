@@ -1,0 +1,14 @@
+{
+	"category" : "Cocoon-Core-Description",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "CyrilFerlicot 6/19/2015 17:21",
+	"instvars" : [
+		 ],
+	"name" : "CCMagritteToManyRelationFileDescription",
+	"pools" : [
+		 ],
+	"super" : "MAToManyRelationDescription",
+	"type" : "normal" }

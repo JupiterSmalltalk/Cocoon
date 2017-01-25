@@ -1,0 +1,20 @@
+{
+	"class" : {
+		"writeDictionary:toConfiguration:" : "CyrilFerlicot 6/29/2015 15:34" },
+	"instance" : {
+		"completeConfiguration" : "CyrilFerlicot 7/30/2015 12:00",
+		"createConfigurationFrom:" : "CyrilFerlicot 9/11/2015 13:47",
+		"directoriesFor:from:" : "CyrilFerlicot 8/10/2015 11:49",
+		"extractSubFolderContentsInto:" : "CyrilFerlicot 8/18/2015 15:38",
+		"filesMatching:" : "CyrilFerlicot 8/18/2015 16:11",
+		"resolve:with:" : "CyrilFerlicot 8/19/2015 23:33",
+		"resolveDirectory:" : "CyrilFerlicot 8/10/2015 16:10",
+		"tryToAddFrom:withInterpretation:" : "CyrilFerlicot 6/29/2015 15:36",
+		"visitConfigurationDescription:" : "CyrilFerlicot 9/11/2015 13:49",
+		"visitDirectoryDescription:" : "CyrilFerlicot 6/26/2015 11:05",
+		"visitElementDescription:" : "CyrilFerlicot 6/19/2015 16:56",
+		"visitFileDescription:" : "CyrilFerlicot 6/19/2015 16:57",
+		"visitToManyRelationConfigurationDescription:" : "CyrilFerlicot 9/11/2015 13:47",
+		"visitToManyRelationFileDescription:" : "CyrilFerlicot 6/26/2015 11:32",
+		"visitToManyRelationFileMatchingDescription:" : "CyrilFerlicot 8/18/2015 15:38",
+		"write:to:" : "CyrilFerlicot 7/30/2015 14:54" } }

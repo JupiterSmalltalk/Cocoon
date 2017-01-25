@@ -1,0 +1,15 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testMagritteDictionaryReadingAndInterpretingDictionary" : "CyrilFerlicot 6/29/2015 15:06",
+		"testMagritteDictionaryReadingAndInterpretingFile" : "CyrilFerlicot 6/29/2015 15:06",
+		"testMagritteDictionaryReadingDefault" : "CyrilFerlicot 6/29/2015 15:06",
+		"testMagritteDictionaryReadingNumber" : "CyrilFerlicot 6/29/2015 15:06",
+		"testMagritteDictionaryReadingNumberAndString" : "CyrilFerlicot 6/29/2015 15:06",
+		"testMagritteDictionaryReadingString" : "CyrilFerlicot 6/29/2015 15:06",
+		"testMagritteDictionaryReadingSubconfiguration" : "CyrilFerlicot 6/29/2015 15:06",
+		"testMagritteDictionaryReadingSubconfigurations" : "CyrilFerlicot 9/11/2015 13:55",
+		"testMagritteDictionaryReadingSubconfigurationsPropagate" : "CyrilFerlicot 9/11/2015 13:54",
+		"testMagritteDictionaryReadingWrongDictionary" : "CyrilFerlicot 6/29/2015 15:06",
+		"testReadWithInputWithoutDescription" : "CyrilFerlicot 6/29/2015 15:06" } }

@@ -1,0 +1,17 @@
+{
+	"category" : "Cocoon-Core-Configuration",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "CyrilFerlicot 7/10/2015 17:03",
+	"instvars" : [
+		"parent",
+		"properties",
+		"magritteDescription",
+		"configurationName" ],
+	"name" : "CCConfiguration",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

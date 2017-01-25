@@ -1,0 +1,3 @@
+*Cocoon-Core
+defaultCocoonDefaultDocumentation
+	^ nil

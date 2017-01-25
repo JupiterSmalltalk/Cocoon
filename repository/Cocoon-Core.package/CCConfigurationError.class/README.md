@@ -1,0 +1,1 @@
+I manage error related to configuration.
