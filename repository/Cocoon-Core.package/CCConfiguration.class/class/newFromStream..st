@@ -2,4 +2,4 @@ instance creation
 newFromStream: aStream
 	^ [ self newFromDictionary: (STON fromStream: aStream) ]
 		on: STONReaderError
-		do: [ :error | CCConfigurationError signal: error messageText ]
+		do: [ :error | CCConfigurationError signal: error messageText, ' Inside: ', aStream localName ]
