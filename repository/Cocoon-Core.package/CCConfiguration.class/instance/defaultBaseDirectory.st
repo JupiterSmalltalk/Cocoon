@@ -1,5 +1,5 @@
 accessing defaults
 defaultBaseDirectory
-	"The current working directory"
+  "The current working directory"
 
-	^ FileSystem workingDirectory
+  ^ GRPlatform current defaultDirectoryPathString
